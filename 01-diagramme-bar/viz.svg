@@ -1,0 +1,405 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600">
+    <rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g id="viz">
+        <g transform="translate(0,0)">
+            <g transform="translate(106,20)">
+                <g class="bars">
+                    <rect id="undefined - Marne" x="0" y="0.9982174688057057" height="7.874826698356109"
+                        width="643.9018181818182" fill="#1f77b4" />
+                    <rect id="undefined - Oise" x="0" y="9.87126163596752" height="7.874826698356109"
+                        width="427.3052727272728" fill="#1f77b4" />
+                    <rect id="undefined - Yonne" x="0" y="18.744305803129333" height="7.874826698356109"
+                        width="366.17218181818185" fill="#1f77b4" />
+                    <rect id="undefined - Aube" x="0" y="27.617349970291144" height="7.874826698356109"
+                        width="311.05218181818185" fill="#1f77b4" />
+                    <rect id="undefined - Eure" x="0" y="36.49039413745296" height="7.874826698356109"
+                        width="286.49872727272725" fill="#1f77b4" />
+                    <rect id="undefined - Risle" x="0" y="45.363438304614775" height="7.874826698356109"
+                        width="181.64545454545453" fill="#1f77b4" />
+                    <rect id="undefined - Loing" x="0" y="54.23648247177658" height="7.874826698356109"
+                        width="178.7641818181818" fill="#1f77b4" />
+                    <rect id="undefined - Epte" x="0" y="63.1095266389384" height="7.874826698356109"
+                        width="141.55818181818182" fill="#1f77b4" />
+                    <rect id="undefined - Ource" x="0" y="71.98257080610021" height="7.874826698356109"
+                        width="125.7738181818182" fill="#1f77b4" />
+                    <rect id="undefined - Yerres" x="0" y="80.85561497326202" height="7.874826698356109"
+                        width="122.14090909090909" fill="#1f77b4" />
+                    <rect id="undefined - Essonne" x="0" y="89.72865914042384" height="7.874826698356109"
+                        width="121.63981818181817" fill="#1f77b4" />
+                    <rect id="undefined - Andelle" x="0" y="98.60170330758565" height="7.874826698356109"
+                        width="71.15490909090909" fill="#1f77b4" />
+                    <rect id="undefined - Barse" x="0" y="107.47474747474746" height="7.874826698356109"
+                        width="62.76163636363637" fill="#1f77b4" />
+                    <rect id="undefined - Orge" x="0" y="116.34779164190928" height="7.874826698356109"
+                        width="62.76163636363637" fill="#1f77b4" />
+                    <rect id="undefined - Voulzie" x="0" y="125.22083580907109" height="7.874826698356109"
+                        width="54.994727272727275" fill="#1f77b4" />
+                    <rect id="undefined - Almont" x="0" y="134.0938799762329" height="7.874826698356109"
+                        width="52.73981818181818" fill="#1f77b4" />
+                    <rect id="undefined - Orvin" x="0" y="142.96692414339472" height="7.874826698356109"
+                        width="47.72890909090909" fill="#1f77b4" />
+                    <rect id="undefined - Mauldre" x="0" y="151.83996831055654" height="7.874826698356109"
+                        width="43.46963636363637" fill="#1f77b4" />
+                    <rect id="undefined - Bièvre" x="0" y="160.71301247771834" height="7.874826698356109"
+                        width="43.34436363636364" fill="#1f77b4" />
+                    <rect id="undefined - Auxence" x="0" y="169.58605664488016" height="7.874826698356109"
+                        width="42.843272727272726" fill="#1f77b4" />
+                    <rect id="undefined - Laigne" x="0" y="178.45910081204198" height="7.874826698356109"
+                        width="41.590545454545456" fill="#1f77b4" />
+                    <rect id="undefined - Noxe" x="0" y="187.33214497920378" height="7.874826698356109"
+                        width="40.83890909090909" fill="#1f77b4" />
+                    <rect id="undefined - Brévon" x="0" y="196.2051891463656" height="7.874826698356109"
+                        width="39.46090909090909" fill="#1f77b4" />
+                    <rect id="undefined - Sarce" x="0" y="205.07823331352742" height="7.874826698356109"
+                        width="37.95763636363637" fill="#1f77b4" />
+                    <rect id="undefined - Cailly" x="0" y="213.9512774806892" height="7.874826698356109"
+                        width="36.70490909090909" fill="#1f77b4" />
+                    <rect id="undefined - Vallée Javot" x="0" y="222.82432164785104" height="7.874826698356109"
+                        width="36.45436363636364" fill="#1f77b4" />
+                    <rect id="undefined - Ardusson" x="0" y="231.69736581501286" height="7.874826698356109"
+                        width="34.825818181818185" fill="#1f77b4" />
+                    <rect id="undefined - École" x="0" y="240.57040998217468" height="7.874826698356109"
+                        width="33.44781818181818" fill="#1f77b4" />
+                    <rect id="undefined - Arce" x="0" y="249.44345414933647" height="7.874826698356109"
+                        width="32.69618181818182" fill="#1f77b4" />
+                    <rect id="undefined - Hozain" x="0" y="258.31649831649827" height="7.874826698356109"
+                        width="30.817090909090908" fill="#1f77b4" />
+                    <rect id="undefined - Melda" x="0" y="267.1895424836601" height="7.874826698356109" width="30.316"
+                        fill="#1f77b4" />
+                    <rect id="undefined - Resson" x="0" y="276.0625866508219" height="7.874826698356109"
+                        width="29.689636363636364" fill="#1f77b4" />
+                    <rect id="undefined - Vaucouleurs" x="0" y="284.93563081798374" height="7.874826698356109"
+                        width="27.43472727272727" fill="#1f77b4" />
+                    <rect id="undefined - Aubette de Meulan" x="0" y="293.80867498514556" height="7.874826698356109"
+                        width="25.054545454545455" fill="#1f77b4" />
+                    <rect id="undefined - Austreberthe" x="0" y="302.6817191523074" height="7.874826698356109"
+                        width="22.42381818181818" fill="#1f77b4" />
+                    <rect id="undefined - Morelle" x="0" y="311.5547633194692" height="7.874826698356109"
+                        width="22.173272727272725" fill="#1f77b4" />
+                    <rect id="undefined - rû des Hauldres" x="0" y="320.42780748663097" height="7.874826698356109"
+                        width="21.421636363636363" fill="#1f77b4" />
+                    <rect id="undefined - Oison" x="0" y="329.3008516537928" height="7.874826698356109"
+                        width="20.043636363636363" fill="#1f77b4" />
+                    <rect id="undefined - ru d'Orgeval" x="0" y="338.1738958209546" height="7.874826698356109"
+                        width="20.043636363636363" fill="#1f77b4" />
+                    <rect id="undefined - Commerce" x="0" y="347.04693998811643" height="7.874826698356109"
+                        width="19.417272727272728" fill="#1f77b4" />
+                    <rect id="undefined - Revinson" x="0" y="355.91998415527826" height="7.874826698356109"
+                        width="19.292" fill="#1f77b4" />
+                    <rect id="undefined - ru de Chaumont" x="0" y="364.7930283224401" height="7.874826698356109"
+                        width="18.415090909090907" fill="#1f77b4" />
+                    <rect id="undefined - Lézarde" x="0" y="373.66607248960185" height="7.874826698356109"
+                        width="17.78872727272727" fill="#1f77b4" />
+                    <rect id="undefined - ru d'Enghien" x="0" y="382.53911665676367" height="7.874826698356109"
+                        width="17.763672727272727" fill="#1f77b4" />
+                    <rect id="undefined - Ru de Balory" x="0" y="391.4121608239255" height="7.874826698356109"
+                        width="15.283272727272728" fill="#1f77b4" />
+                    <rect id="undefined - Mare aux Evées" x="0" y="400.2852049910873" height="7.874826698356109"
+                        width="14.155818181818184" fill="#1f77b4" />
+                    <rect id="undefined - Châtelet" x="0" y="409.15824915824913" height="7.874826698356109"
+                        width="13.654727272727273" fill="#1f77b4" />
+                    <rect id="undefined - Canal de Sauvage" x="0" y="418.03129332541096" height="7.874826698356109"
+                        width="13.529454545454547" fill="#1f77b4" />
+                    <rect id="undefined - Faverolle" x="0" y="426.9043374925727" height="7.874826698356109"
+                        width="13.028363636363638" fill="#1f77b4" />
+                    <rect id="undefined - ru de Buzot" x="0" y="435.77738165973454" height="7.874826698356109"
+                        width="11.525090909090908" fill="#1f77b4" />
+                    <rect id="undefined - Robec" x="0" y="444.65042582689637" height="7.874826698356109"
+                        width="11.274545454545455" fill="#1f77b4" />
+                    <rect id="undefined - ru de Marivel" x="0" y="453.5234699940582" height="7.874826698356109"
+                        width="11.274545454545455" fill="#1f77b4" />
+                    <rect id="undefined - Gambon" x="0" y="462.39651416122" height="7.874826698356109"
+                        width="10.52290909090909" fill="#1f77b4" />
+                    <rect id="undefined - Télhuet" x="0" y="471.26955832838183" height="7.874826698356109"
+                        width="10.397636363636364" fill="#1f77b4" />
+                    <rect id="undefined - Aubette" x="0" y="480.14260249554366" height="7.874826698356109"
+                        width="9.896545454545455" fill="#1f77b4" />
+                    <rect id="undefined - Triffoire" x="0" y="489.0156466627054" height="7.874826698356109"
+                        width="9.896545454545455" fill="#1f77b4" />
+                    <rect id="undefined - ru du canal" x="0" y="497.88869082986724" height="7.874826698356109"
+                        width="9.270181818181818" fill="#1f77b4" />
+                    <rect id="undefined - Vieille Mer" x="0" y="506.76173499702907" height="7.874826698356109"
+                        width="7.516363636363637" fill="#1f77b4" />
+                    <rect id="undefined - canal Saint-Martin" x="0" y="515.6347791641908" height="7.874826698356109"
+                        width="5.762545454545454" fill="#1f77b4" />
+                    <rect id="undefined - Sainte-Gertrude" x="0" y="524.5078233313527" height="7.874826698356109"
+                        width="5.136181818181818" fill="#1f77b4" />
+                    <rect id="undefined - rû d'Écoute" x="0" y="533.3808674985145" height="7.874826698356109"
+                        width="4.384545454545455" fill="#1f77b4" />
+                    <rect id="undefined - Rançon" x="0" y="542.2539116656764" height="7.874826698356109"
+                        width="4.096418181818182" fill="#1f77b4" />
+                    <rect id="undefined - Douix" x="0" y="551.1269558328381" height="7.874826698356109"
+                        width="0.12527272727272729" fill="#1f77b4" />
+                </g>
+                <g id="xAxis" transform="translate(0,560)" fill="none" font-size="10" font-family="sans-serif"
+                    text-anchor="middle">
+                    <path class="domain" stroke="currentColor" d="M0.5,6V0.5H689.5V6" />
+                    <g class="tick" opacity="1" transform="translate(0.5,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(63.13636363636364,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(125.77272727272728,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">100</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(188.4090909090909,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">150</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(251.04545454545456,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">200</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(313.6818181818182,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">250</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(376.3181818181818,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">300</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(438.95454545454544,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">350</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(501.5909090909091,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">400</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(564.2272727272727,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">450</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(626.8636363636364,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">500</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(689.5,0)">
+                        <line stroke="currentColor" y2="6" /><text fill="currentColor" y="9" dy="0.71em">550</text>
+                    </g><text font-family="Arial, sans-serif" font-size="10" x="689" dy="-5" fill="black"
+                        font-weight="bold" text-anchor="end">Longueur (km)</text>
+                </g>
+                <g id="yAxis" transform="translate(0,0)" fill="none" font-size="10" font-family="sans-serif"
+                    text-anchor="end">
+                    <path class="domain" stroke="currentColor" d="M0.5,0.5V560.5" />
+                    <g class="tick" opacity="1" transform="translate(0,4.9356308179837605)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Marne</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.808674985145574)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Oise</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,22.681719152307387)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Yonne</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,31.5547633194692)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Aube</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,40.42780748663101)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Eure</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,49.300851653792826)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Risle</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,58.173895820954634)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Loing</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,67.04693998811645)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Epte</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,75.91998415527827)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Ource</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,84.79302832244008)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Yerres</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,93.6660724896019)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Essonne</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,102.53911665676371)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Andelle</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,111.41216082392552)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Barse</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,120.28520499108734)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Orge</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,129.15824915824913)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Voulzie</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,138.03129332541096)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Almont</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,146.90433749257278)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Orvin</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,155.7773816597346)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Mauldre</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,164.6504258268964)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Bièvre</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,173.52346999405822)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Auxence</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,182.39651416122004)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Laigne</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,191.26955832838183)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Noxe</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,200.14260249554366)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Brévon</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,209.01564666270548)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Sarce</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,217.88869082986727)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Cailly</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,226.7617349970291)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Vallée
+                            Javot</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,235.63477916419092)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Ardusson</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,244.50782333135274)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">École</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,253.38086749851453)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Arce</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,262.2539116656763)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Hozain</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,271.1269558328381)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Melda</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,279.99999999999994)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Resson</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,288.87304416716177)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Vaucouleurs</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,297.7460883343236)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Aubette de
+                            Meulan</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,306.6191325014854)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Austreberthe</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,315.49217666864723)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Morelle</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,324.365220835809)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">rû des
+                            Hauldres</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,333.2382650029708)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Oison</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,342.11130917013264)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">ru
+                            d'Orgeval</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,350.98435333729446)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Commerce</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,359.8573975044563)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Revinson</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,368.7304416716181)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">ru de
+                            Chaumont</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,377.6034858387799)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Lézarde</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,386.4765300059417)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">ru
+                            d'Enghien</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,395.3495741731035)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Ru de
+                            Balory</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,404.22261834026534)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Mare aux
+                            Evées</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,413.09566250742716)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Châtelet</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,421.968706674589)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Canal de
+                            Sauvage</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,430.84175084175075)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Faverolle</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,439.7147950089126)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">ru de
+                            Buzot</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,448.5878391760744)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Robec</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,457.4608833432362)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">ru de
+                            Marivel</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,466.33392751039804)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Gambon</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,475.20697167755986)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Télhuet</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,484.0800158447217)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Aubette</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,492.95306001188345)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Triffoire</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,501.8261041790453)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">ru du
+                            canal</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,510.6991483462071)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Vieille
+                            Mer</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,519.5721925133689)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">canal
+                            Saint-Martin</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,528.4452366805308)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9"
+                            dy="0.32em">Sainte-Gertrude</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,537.3182808476926)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">rû
+                            d'Écoute</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,546.1913250148544)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Rançon</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,555.0643691820162)">
+                        <line stroke="currentColor" x2="-6" /><text fill="currentColor" x="-9" dy="0.32em">Douix</text>
+                    </g>
+                </g>
+            </g><text y="4" x="4"
+                style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;" />
+        </g>
+    </g>
+</svg>
