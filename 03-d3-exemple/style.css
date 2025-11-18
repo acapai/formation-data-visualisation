@@ -1,0 +1,13 @@
+h1 {
+    color:blue;
+}
+
+svg {
+    background-color:antiquewhite;
+}
+
+rect {
+    fill: coral;
+    stroke: darkred;
+    stroke-width:2;
+}
