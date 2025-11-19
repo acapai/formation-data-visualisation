@@ -3,15 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>D3 sample</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Les affluents de la Seine</title>
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+    <link href="https://fonts.bunny.net/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="../node_modules/d3/dist/d3.min.js"></script>
 </head>
 <body>
-    <h1> Les affluents de la Seine </h1>
+    <h1>Les affluents de la Seine</h1>
+    <div class="command">
+        <p>Classement par </p>
+        <button>Longueur de l'affluent</button>
+        <button>Surface du bassin versant</button>
+    </div>
     <svg width="800" height="600">
-        <!-- <rect  x=0 y=0 width="200" height="20" /> -->
-        <!-- <circle cx="400" cy="300" r="200" fill="lightblue" stroke="blue" stroke-width="2"/> -->
     </svg>
-    <script src="main.js"></script>
+    <script type="module" src="main.js"></script>
 </body>
 </html>
