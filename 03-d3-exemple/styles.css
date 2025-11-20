@@ -1,25 +1,41 @@
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 1em;
 }
 
 svg {
-    background-color: antiquewhite;
+  background-color: antiquewhite;
+  width: 800px;
+  height: 500px;
 }
 
 rect {
-    stroke: darkred;
-    stroke-width: 2;
+  stroke: darkred;
+  stroke-width: 2;
 }
 
 div.command {
-    padding: 1em;
+  padding: 1em;
 
-    button {
-        padding: 0.5em 1em;
-        cursor: pointer;
-    }
+  button {
+    width: 25em;
+    padding: 0.5em 1em;
+    cursor: pointer;
+  }
+}
+
+.gray {
+  color: gray;
+}
+
+text.name {
+  font-weight: bold;
 }

@@ -70,21 +70,24 @@ const afficheDiagramme = (data) => {
 };
 
 const afficheDiagrammeWithD3 = (data, type) => {
-  const textMaxWidth = 70;
+  const svgWidth = 800;
+  const textMaxWidth = 80;
   const textWidth = 90;
   const svg = d3.select("svg");
 
   const height = 40;
   const gap = 10;
-  const maxBarWith = +svg.attr("width") - 2 * 10 - textMaxWidth - textWidth;
+  const marginWidth = 10;
+  const maxBarWith = svgWidth - 2 * marginWidth - textMaxWidth - textWidth;
   const ratio = maxBarWith / data[0][type];
 
-  const groupes = svg.selectAll("g").data(data, (d) => d.id);
+  const groupes = svg.selectAll("g.bar-group").data(data, (d) => d.id);
 
   // Le groupe de ceux qui entrent (les enters)
   const groupesEnter = groupes
     .enter()
     .append("g")
+    .classed("bar-group", true)
     .attr("transform", (d, i) => `translate(0, ${10 + i * (height + gap)})`);
 
   groupesEnter
@@ -99,14 +102,25 @@ const afficheDiagrammeWithD3 = (data, type) => {
 
   groupesEnter
     .append("text")
-    .attr("x", 10 + 10)
+    .classed("name", true)
+    .attr("x", textMaxWidth)
     .attr("y", height / 2)
     .attr("dominant-baseline", "middle")
+    .attr("text-anchor", "end")
     .text((d) => `${d.name}`);
 
-  groupesEnter
+  const gValue = groupesEnter
+    .append("g")
+    .classed("value-group", true)
+    .attr(
+      "transform",
+      (d) => `translate(${d[type] * ratio + 10 + textMaxWidth + 10}, 0)`,
+    );
+
+  gValue
     .append("text")
-    .attr("x", (d) => d[type] * ratio + 10 + textMaxWidth + 10)
+    .classed("value", true)
+    .attr("x", 0)
     .attr("y", height / 2)
     .attr("dominant-baseline", "middle")
     .text((d) => `${d[type]} ${type === "km" ? "km" : "km²"}`);
@@ -126,22 +140,29 @@ const afficheDiagrammeWithD3 = (data, type) => {
     .select("rect")
     .transition()
     .duration(750)
-    .attr("width", (d) => d[type] * ratio)
-    .attr("fill", (d) => d3.interpolateViridis(d[type] / data[0][type]));
+    .attr("width", (d) => d[type] * ratio);
 
   groupesUpdate
-    .select("text:nth-of-type(1)")
+    .select("text.name")
     .transition()
     .duration(750)
     .text((d) => `${d.name}`);
 
-  const t = groupesUpdate.select("text:nth-of-type(2)");
+  groupesUpdate
+    .select("g.value-group")
+    .transition()
+    .duration(750)
+    .attr(
+      "transform",
+      (d) => `translate(${d[type] * ratio + 10 + textMaxWidth + 10}, 0)`,
+    );
+
+  const t = groupesUpdate.select("text.value");
 
   // Fade-out
   t.transition()
     .duration(375)
     .style("opacity", 0)
-    .text((d) => "")
     .on("end", () => {
       // Mise à jour de la valeur
       t.text((d) => `${d[type]} ${type === "km" ? "km" : "km²"}`);
@@ -150,7 +171,6 @@ const afficheDiagrammeWithD3 = (data, type) => {
       t.style("opacity", 0) // point de départ
         .transition()
         .duration(375)
-        .attr("x", (d) => d[type] * ratio + 10 + textMaxWidth + 10)
         .style("opacity", 1); // fin (complètement visible)
     });
 };
